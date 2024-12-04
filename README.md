@@ -67,7 +67,7 @@ Both models showed strengths and weaknesses. Future work should focus on expandi
 Python, Natural Language Processing, Data Cleaning, Feature Extraction, Text Classification, Support Vector Classifier (SVC), RandomForestClassifier, TF-IDF Vectorizer, Grid Search, Model Evaluation, Precision, Recall, F1-Score
 
 ## 🚀 About This Project
-Hi 👋, I'm Ahmed Munir
+Hi 👋, I'm Ahmad Munir
 
 This project focuses on detecting abusive language in social media using machine learning techniques.
 
@@ -76,5 +76,5 @@ This project focuses on detecting abusive language in social media using machine
 📫 How to reach me: ahnather2@gmail.com
 
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/ahnather)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-munir-4b8749269/)
+[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHNather)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahnather)
